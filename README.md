@@ -16,6 +16,7 @@ All manual test cases and bug report were written and maintained using Excel dur
 ### 📄 Download Test Files
 
  [Download Manual Test Cases](https://github.com/PabasaraParami/Libary_managment/blob/main/LB-test%20case.xlsx)
-  
-
+  [Download Manual bug Report]( https://github.com/PabasaraParami/Libary_managment/blob/main/LB-Bug%20Report.xlsx
+)
+ 
 
